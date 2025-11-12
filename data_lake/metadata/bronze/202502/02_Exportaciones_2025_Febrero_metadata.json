@@ -1,0 +1,19 @@
+{
+  "source_name": "02_Exportaciones_2025_Febrero.xlsx",
+  "source_path": "/Users/mariana/Desktop/University/7/DataEngineering/final/data_lake/incoming/02_Exportaciones_2025_Febrero.xlsx",
+  "dest_path": "/Users/mariana/Desktop/University/7/DataEngineering/final/data_lake/lake/bronze/202502/02_Exportaciones_2025_Febrero.xlsx",
+  "checksum_sha256": "eb3864b8520290da97af98bcd6419bb9d0128e6741f9dab3e37514a7316e7b93",
+  "size_bytes": 38231919,
+  "ingest_ts": "2025-11-12T04:34:56.174912Z",
+  "year": "2025",
+  "month": "02",
+  "yyyymm": "202502",
+  "friendly_label": "2025-02",
+  "sheets": [
+    {
+      "sheet_name": "Sheet1",
+      "sample_rows": 50,
+      "sample_path": null
+    }
+  ]
+}
