@@ -101,7 +101,6 @@ Next improvements (suggested)
 - Implement checksum-based processed-file index for robust deduplication.
 - Add unit tests and a lightweight smoke test that runs the ETL for a tiny sample file.
 
-License & authors
+Author
 
-- Author: Project work for Data Mendez LTDA (student project)
-- License: add a license file if you intend to open-source this project.
+- Author: Mariana Gonzalez G
